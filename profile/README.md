@@ -16,9 +16,7 @@ Desarrollo de Software | APIs | Sistemas Empresariales | Transformación Digital
 <img src="https://komarev.com/ghpvc/?username=Soft-Craft-Bol&label=Visitors&color=red&style=for-the-badge"/>
 </p>
 
----
-
-# 🏢 Sobre Nosotros
+# Sobre Nosotros
 
 **Soft-Craft Bol** es una empresa de desarrollo de software enfocada en crear soluciones tecnológicas modernas para empresas y emprendimientos.
 
@@ -29,12 +27,12 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 * Eficiente
 * Adaptado a cada negocio
 
-🌎 Bolivia  
-💻 Desarrollo Web | Backend | Sistemas Empresariales | APIs
+Bolivia  
+Desarrollo Web | Backend | Sistemas Empresariales | APIs
 
 ---
 
-# ⚙️ Tecnologías
+# Tecnologías
 
 <p align="center">
 
@@ -44,42 +42,13 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 
 ---
 
-# 👨‍💻 Contributors
+# Contributors
 
 <p align="center">
 
 <img src="https://contrib.rocks/image?repo=Soft-Craft-Bol/.github"/>
 
 </p>
-
----
-
-# 🤝 Colaboración
-
-Siempre estamos abiertos a colaborar en proyectos innovadores.
-
-📧 **softcraft2024@gmail.com**
-
----
-
-# 🌐 Redes
-
-🌍 Website  
-https://www.softcraftbol.com  
-
-📺 YouTube  
-📱 TikTok  
-📘 Facebook  
-
----
-
-# ⭐ Apoya nuestros proyectos
-
-Si alguno de nuestros proyectos te resulta útil:
-
-⭐ Dale una estrella al repositorio  
-🍴 Haz un fork  
-🤝 Contribuye  
 
 ---
 
