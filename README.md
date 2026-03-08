@@ -38,7 +38,7 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,html,css,mysql,postgres,git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,django,react,js,nodejs,html,css,mysql,postgres,git,github,docker,vscode"/>
 
 </p>
 
