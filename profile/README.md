@@ -42,31 +42,16 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 
 </p>
 
----
 
-# 📦 Repositorios
-
-<p align="center">
-<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soft-Craft-Bol&theme=github_dark"/>
-</a>
-
-<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soft-Craft-Bol&theme=github_dark"/>
-</a>
-</p>
----
-
-# 📊 Estadísticas de GitHub
+# 📊 Estadísticas
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soft-Craft-Bol&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soft-Craft-Bol&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soft-Craft-Bol&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soft-Craft-Bol&theme=github_dark"/>
 
 </p>
-
 ---
 
 # 📈 Actividad
