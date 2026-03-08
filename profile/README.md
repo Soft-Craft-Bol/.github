@@ -44,26 +44,17 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 
 ---
 
-# 📦 Repositorios Recientes
+# 📦 Repositorios
 
-<!-- Lista automática -->
-
+<p align="center">
 <a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=Motor-Busqueda&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soft-Craft-Bol&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=api-facturacion&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soft-Craft-Bol&theme=github_dark"/>
 </a>
-
-<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=web-softcraft&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=panaderia&theme=tokyonight"/>
-</a>
-
+</p>
 ---
 
 # 📊 Estadísticas de GitHub
