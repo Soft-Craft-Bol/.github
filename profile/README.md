@@ -43,14 +43,6 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 </p>
 
 ---
-# 📈 Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soft-Craft-Bol&theme=github-dark"/>
-
-</p>
----
 
 # 👨‍💻 Contributors
 
