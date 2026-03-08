@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2028,50:203a43,100:2c5364&height=200&section=header&text=Soft-Craft%20Bol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:FF0000&height=200&section=header&text=Soft-Craft%20Bol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
@@ -10,6 +10,10 @@ Transformando ideas en software 🚀
 
 <p align="center">
 Desarrollo de Software | APIs | Sistemas Empresariales | Transformación Digital
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Soft-Craft-Bol&label=Visitors&color=red&style=for-the-badge"/>
 </p>
 
 ---
@@ -25,7 +29,7 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 * Eficiente
 * Adaptado a cada negocio
 
-🌎 Bolivia
+🌎 Bolivia  
 💻 Desarrollo Web | Backend | Sistemas Empresariales | APIs
 
 ---
@@ -37,6 +41,29 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,html,css,mysql,postgres,git,github,docker,vscode"/>
 
 </p>
+
+---
+
+# 📦 Repositorios Recientes
+
+<!-- Lista automática -->
+
+<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=Motor-Busqueda&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=api-facturacion&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=web-softcraft&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Soft-Craft-Bol?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Soft-Craft-Bol&repo=panaderia&theme=tokyonight"/>
+</a>
+
 ---
 
 # 📊 Estadísticas de GitHub
@@ -61,22 +88,32 @@ Nuestro objetivo es impulsar la **transformación digital** mediante software:
 
 ---
 
+# 👨‍💻 Contributors
+
+<p align="center">
+
+<img src="https://contrib.rocks/image?repo=Soft-Craft-Bol/.github"/>
+
+</p>
+
+---
+
 # 🤝 Colaboración
 
 Siempre estamos abiertos a colaborar en proyectos innovadores.
 
-📧 **[softcraft2024@gmail.com](mailto:softcraft2024@gmail.com)**
+📧 **softcraft2024@gmail.com**
 
 ---
 
 # 🌐 Redes
 
-🌍 Website
-https://www.softcraftbol.com
+🌍 Website  
+https://www.softcraftbol.com  
 
-📺 YouTube
-📱 TikTok
-📘 Facebook
+📺 YouTube  
+📱 TikTok  
+📘 Facebook  
 
 ---
 
@@ -84,9 +121,9 @@ https://www.softcraftbol.com
 
 Si alguno de nuestros proyectos te resulta útil:
 
-⭐ Dale una estrella al repositorio
-🍴 Haz un fork
-🤝 Contribuye
+⭐ Dale una estrella al repositorio  
+🍴 Haz un fork  
+🤝 Contribuye  
 
 ---
 
@@ -104,6 +141,5 @@ Si alguno de nuestros proyectos te resulta útil:
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:B22222,100:8B0000&height=120&section=footer"/>
 </p>
-
